@@ -1,3 +1,6 @@
+# Edgar Jossue Ziesse Orellana
+# 1890 - 20 -2527
+
 # Instalacionpostfix
 Descripcion de lo qu ese realizo acontinuacion 
 En este apartado se expone la implementación y ejecución de la aplicación del servicio 
@@ -18,22 +21,28 @@ configuración del servicio Postfix. Estas evidencias visuales refuerzan la vali
 implementación, demostrando que el servicio ha sido correctamente configurado y se 
 encuentra en pleno funcionamiento dentro del entorno administrado.
 
+## Inicio de sesion en Webmin
 En primer lugar, se procede a realizar el inicio de sesión en el sistema
 https://drive.google.com/file/d/1KqhUBJehGDPFKQIgcPEG2OcXL-DZ6WUA/view?usp=drive_link
 
+## Pantalla principal de Webmin
 Interfaz gráfica inicial del entorno de administración
 https://drive.google.com/file/d/1xgccB4Ab5KgubCj97H8Z_gQRWxVyeQog/view?usp=drive_link
 
+## Pantalla de configuraciones de Webmin
 Accedemos al apartado de configuración de Webmin.
 https://drive.google.com/file/d/1J5nNcS0QNJwywnP8w_MUahqpCuaN4n16/view?usp=drive_link
 
+## Busqueda de postfix en webmin
 En la barra de búsqueda del panel de Webmin, se ingresa el término “Postfix Mail Server” para localizar 
 rápidamente el módulo correspondiente a la gestión del servicio de correo electrónico.
 https://drive.google.com/file/d/16PD9gscUkM-ZNMRHXNycHpP-fIZZi-Fp/view?usp=drive_link
 
+## Modulo de Postfix
 Accedemos al módulo de Postfix para gestionar la configuración del servicio de correo electrónico dentro del entorno de Webmin.
 https://drive.google.com/file/d/1-dH9gaNUwSuZeG8S-UvIaSP944wIkypD/view?usp=drive_link
 
+## Seccion de confifuracines de postfix
 Nos dirigimos a la sección de “Opciones Generales” dentro del módulo de Postfix, con el fin de realizar los ajustes necesarios en la
 configuración del servicio.
 https://drive.google.com/file/d/1VLsMtAI7CmP-hdzz_W6lrvEZNGP6IsLT/view?usp=drive_link
